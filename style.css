@@ -1,0 +1,67 @@
+body {
+    background-color: #dbe4ff;
+    margin: 40px 50px;
+    font-family: Roboto, sans-serif;
+}
+
+hr {
+    border: 1px solid rgb(65, 4, 92);
+}
+
+.name {
+    margin-bottom: 5px;
+}
+
+.link {
+    margin-top: 5px;
+    font-size: medium;
+    font-style: oblique;
+}
+
+.main {
+    text-align: center;
+    margin-top: 5px;
+}
+
+.style {
+    font-size: 20px;
+    margin-bottom: 10px;
+    text-decoration: underline;
+}
+
+.section {
+    margin-bottom: 20px;
+}
+
+.left, .left1 {
+    width: 100%;
+}
+
+.t1 {
+    margin-top: 2px;
+    margin-bottom: 2px;
+    font-weight: bold;
+}
+
+.t2, .t3 {
+    margin: 4px;
+    font-weight: 200;
+}
+
+.text {
+    font-size: medium;
+    text-align: justify;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
